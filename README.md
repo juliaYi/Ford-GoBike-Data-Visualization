@@ -1,4 +1,4 @@
-## Bike sharing analysis with Ford goBike data
+## Bike sharing analysis with Ford GoBike data
 ### Overview
 I worked for a starup and participated in building customized service of Uber or Lyft to South Korea market. 
 Since then, I have built a strong curiosity and passion to the mobility market.
